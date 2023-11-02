@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "IpI7uE5TPSmtY4BtIev4XPBhWw+xV9fbxnYRhviXo7E=",
+  "Source": "Release-WebApi",
+  "BasePath": "_content/Release-WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
